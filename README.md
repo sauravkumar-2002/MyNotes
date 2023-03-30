@@ -5,6 +5,7 @@ Save paper Save Life
 The app will provide a safe platform for everyone in the view of storing there personal data, important data at any instant of time, without using pen and paper.it is the online equivalent of notebook.
 
 #Features
+
 1.Dashboard containing List of notes created by you in sorted way with a floating action button to add new notes.
 
 2.User can also edit your existing notes.
@@ -14,6 +15,7 @@ The app will provide a safe platform for everyone in the view of storing there p
 4.User can delete any existing note and app will also ask for confirmation regarding that.
 
 # Links
+
 1.Repo Link -https://github.com/sauravkumar-2002/MyNotes
 
 2.video Link- https://drive.google.com/file/d/1mdyhtMh-QqzbslYl3gSjU1hQUOOiS6XS/view?usp=sharing
@@ -22,7 +24,7 @@ The app will provide a safe platform for everyone in the view of storing there p
 
 #Tech Stacks
 
-1. Room Dtabase
+1.Room Dtabase
 
 2.Lottie Animation
 
